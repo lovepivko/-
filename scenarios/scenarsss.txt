@@ -1,0 +1,16 @@
+start
+  path1
+    river
+      findBridge
+        crossBridge
+          mysteriousTemple
+            knockOnDoor
+              end
+  path2
+    cave
+      stalactites
+          ...
+                  end
+      stalagmites
+          ...
+                  end
